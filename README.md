@@ -1,6 +1,6 @@
- <h1>Programa de Simulação de Mercadinho</h1>
+ <h1>Programa de Simulação de Mercado</h1>
 
-  <p>Este é um programa Java que simula as operações básicas de um mercadinho. Ele permite gerenciar produtos, adicionar itens ao carrinho de compras, calcular o total da compra e finalizar a compra.</p>
+  <p>Este é um programa Java que simula as operações básicas de um Mercado. Ele permite gerenciar produtos, adicionar itens ao carrinho de compras, calcular o total da compra e finalizar a compra.</p>
 
   <h2>Funcionalidades</h2>
     <ul>
